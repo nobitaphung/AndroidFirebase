@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-985026743/FirebaseUI-Android.iml" filepath="$PROJECT_DIR$/.idea/modules/-985026743/FirebaseUI-Android.iml" group="FirebaseUI-Android" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/1069971209/FirebaseUI-Android-lint.iml" filepath="$PROJECT_DIR$/.idea/modules/1069971209/FirebaseUI-Android-lint.iml" group="FirebaseUI-Android/lint" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1628063141/app.iml" filepath="$PROJECT_DIR$/.idea/modules/-1628063141/app.iml" group="FirebaseUI-Android/app" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/auth.iml" filepath="$PROJECT_DIR$/.idea/modules/auth.iml" group="FirebaseUI-Android/auth" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/1492993905/common.iml" filepath="$PROJECT_DIR$/.idea/modules/1492993905/common.iml" group="FirebaseUI-Android/common" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1655315071/database.iml" filepath="$PROJECT_DIR$/.idea/modules/-1655315071/database.iml" group="FirebaseUI-Android/database" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/318251301/firestore.iml" filepath="$PROJECT_DIR$/.idea/modules/318251301/firestore.iml" group="FirebaseUI-Android/firestore" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/1420597955/internal.iml" filepath="$PROJECT_DIR$/.idea/modules/1420597955/internal.iml" group="FirebaseUI-Android/internal" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-793925681/internal-lint.iml" filepath="$PROJECT_DIR$/.idea/modules/-793925681/internal-lint.iml" group="FirebaseUI-Android/internal/lint" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1746028555/library.iml" filepath="$PROJECT_DIR$/.idea/modules/-1746028555/library.iml" group="FirebaseUI-Android/library" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-2137584390/lintchecks.iml" filepath="$PROJECT_DIR$/.idea/modules/-2137584390/lintchecks.iml" group="FirebaseUI-Android/internal/lintchecks" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1063307342/proguard-tests.iml" filepath="$PROJECT_DIR$/.idea/modules/-1063307342/proguard-tests.iml" group="FirebaseUI-Android/proguard-tests" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/498455989/storage.iml" filepath="$PROJECT_DIR$/.idea/modules/498455989/storage.iml" group="FirebaseUI-Android/storage" />
+    </modules>
+  </component>
+</project>

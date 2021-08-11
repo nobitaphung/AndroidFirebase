@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="Gradle: internal-lint.lint">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../internal/lint/build/libs/lint.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
